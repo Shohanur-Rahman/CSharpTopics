@@ -1,0 +1,12 @@
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.exe
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.deps.json
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.dll
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.pdb
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.dll
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.pdb
+F:\dot net\CSharpTopicsCover\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.genruntimeconfig.cache

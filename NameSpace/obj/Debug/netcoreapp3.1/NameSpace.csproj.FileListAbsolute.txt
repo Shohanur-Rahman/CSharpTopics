@@ -1,0 +1,12 @@
+F:\dot net\CSharpTopicsCover\NameSpace\bin\Debug\netcoreapp3.1\NameSpace.exe
+F:\dot net\CSharpTopicsCover\NameSpace\bin\Debug\netcoreapp3.1\NameSpace.deps.json
+F:\dot net\CSharpTopicsCover\NameSpace\bin\Debug\netcoreapp3.1\NameSpace.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\NameSpace\bin\Debug\netcoreapp3.1\NameSpace.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\NameSpace\bin\Debug\netcoreapp3.1\NameSpace.dll
+F:\dot net\CSharpTopicsCover\NameSpace\bin\Debug\netcoreapp3.1\NameSpace.pdb
+F:\dot net\CSharpTopicsCover\NameSpace\obj\Debug\netcoreapp3.1\NameSpace.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\NameSpace\obj\Debug\netcoreapp3.1\NameSpace.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\NameSpace\obj\Debug\netcoreapp3.1\NameSpace.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\NameSpace\obj\Debug\netcoreapp3.1\NameSpace.dll
+F:\dot net\CSharpTopicsCover\NameSpace\obj\Debug\netcoreapp3.1\NameSpace.pdb
+F:\dot net\CSharpTopicsCover\NameSpace\obj\Debug\netcoreapp3.1\NameSpace.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+F:\dot net\CSharpTopicsCover\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.exe
+F:\dot net\CSharpTopicsCover\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.deps.json
+F:\dot net\CSharpTopicsCover\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.dll
+F:\dot net\CSharpTopicsCover\MethodHiding\bin\Debug\netcoreapp3.1\MethodHiding.pdb
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.dll
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.pdb
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.genruntimeconfig.cache
