@@ -10,3 +10,4 @@ F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.c
 F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.dll
 F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.pdb
 F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.genruntimeconfig.cache
+F:\dot net\CSharpTopicsCover\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.csprojAssemblyReference.cache

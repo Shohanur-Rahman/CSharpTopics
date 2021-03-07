@@ -1,0 +1,13 @@
+F:\dot net\CSharpTopicsCover\WhyStruct\bin\Debug\netcoreapp3.1\WhyStruct.exe
+F:\dot net\CSharpTopicsCover\WhyStruct\bin\Debug\netcoreapp3.1\WhyStruct.deps.json
+F:\dot net\CSharpTopicsCover\WhyStruct\bin\Debug\netcoreapp3.1\WhyStruct.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\WhyStruct\bin\Debug\netcoreapp3.1\WhyStruct.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\WhyStruct\bin\Debug\netcoreapp3.1\WhyStruct.dll
+F:\dot net\CSharpTopicsCover\WhyStruct\bin\Debug\netcoreapp3.1\WhyStruct.pdb
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.csprojAssemblyReference.cache
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.dll
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.pdb
+F:\dot net\CSharpTopicsCover\WhyStruct\obj\Debug\netcoreapp3.1\WhyStruct.genruntimeconfig.cache

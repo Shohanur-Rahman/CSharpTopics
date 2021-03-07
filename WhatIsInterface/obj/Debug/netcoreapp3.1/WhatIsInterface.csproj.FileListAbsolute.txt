@@ -1,0 +1,13 @@
+F:\dot net\CSharpTopicsCover\WhatIsInterface\bin\Debug\netcoreapp3.1\WhatIsInterface.exe
+F:\dot net\CSharpTopicsCover\WhatIsInterface\bin\Debug\netcoreapp3.1\WhatIsInterface.deps.json
+F:\dot net\CSharpTopicsCover\WhatIsInterface\bin\Debug\netcoreapp3.1\WhatIsInterface.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\WhatIsInterface\bin\Debug\netcoreapp3.1\WhatIsInterface.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\WhatIsInterface\bin\Debug\netcoreapp3.1\WhatIsInterface.dll
+F:\dot net\CSharpTopicsCover\WhatIsInterface\bin\Debug\netcoreapp3.1\WhatIsInterface.pdb
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.csprojAssemblyReference.cache
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.dll
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.pdb
+F:\dot net\CSharpTopicsCover\WhatIsInterface\obj\Debug\netcoreapp3.1\WhatIsInterface.genruntimeconfig.cache

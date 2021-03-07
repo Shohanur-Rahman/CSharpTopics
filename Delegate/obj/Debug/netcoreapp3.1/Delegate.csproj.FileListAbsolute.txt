@@ -1,0 +1,13 @@
+F:\dot net\CSharpTopicsCover\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+F:\dot net\CSharpTopicsCover\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+F:\dot net\CSharpTopicsCover\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+F:\dot net\CSharpTopicsCover\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
+F:\dot net\CSharpTopicsCover\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache

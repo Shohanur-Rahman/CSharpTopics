@@ -1,0 +1,13 @@
+F:\dot net\CSharpTopicsCover\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+F:\dot net\CSharpTopicsCover\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+F:\dot net\CSharpTopicsCover\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+F:\dot net\CSharpTopicsCover\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+F:\dot net\CSharpTopicsCover\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+F:\dot net\CSharpTopicsCover\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+F:\dot net\CSharpTopicsCover\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
